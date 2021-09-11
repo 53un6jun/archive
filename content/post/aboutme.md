@@ -2,13 +2,13 @@
 title: "About Me"
 date: 2021-09-11T17:33:57+09:00
 categories:
-
-* category
+- category
+- subcategory
 tags:
-* tag1
-* tag2
+- tag1
+- tag2
 keywords:
-* tech
+- tech
 #thumbnailImage: //example.com/image.jpg
 ---
 
