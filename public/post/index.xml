@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 공부하자</title>
+    <link>https://53un6jun.github.io/post/</link>
+    <description>Recent content in Posts on 공부하자</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Sep 2021 17:33:57 +0900</lastBuildDate><atom:link href="https://53un6jun.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://53un6jun.github.io/post/aboutme/</link>
+      <pubDate>Sat, 11 Sep 2021 17:33:57 +0900</pubDate>
+      
+      <guid>https://53un6jun.github.io/post/aboutme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
