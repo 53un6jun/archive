@@ -1,7 +1,7 @@
 ---
 title: "New Post Templete"
 date: 2021-01-01T00:00:00Z
-draft = true
+draft: true
 categories:
 - test category 1
 - test category 2
