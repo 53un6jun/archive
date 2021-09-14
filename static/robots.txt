@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://53un6jun.netlify.app/sitemap.xml
