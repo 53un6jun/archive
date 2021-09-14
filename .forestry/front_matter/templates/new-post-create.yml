@@ -1,0 +1,46 @@
+---
+label: New-Post-Create
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: keywords
+  label: keywords
+- type: boolean
+  name: autoThumbnailImage
+  label: autoThumbnailImage
+- type: text
+  name: thumbnailImagePosition
+  label: thumbnailImagePosition
+- type: file
+  name: thumbnailImage
+  label: thumbnailImage
+- type: file
+  name: coverImage
+  label: coverImage
+- name: metaalignment
+  type: select
+  default: center
+  config:
+    required: false
+    options:
+    - center
+    - left
+    - right
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: metaAlignment
