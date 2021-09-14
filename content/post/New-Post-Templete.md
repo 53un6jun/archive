@@ -1,6 +1,7 @@
 ---
 title: "New Post Templete"
-date: 2021-01-01
+date: 2021-01-01T00:00:00Z
+draft = true
 categories:
 - test category 1
 - test category 2
@@ -15,6 +16,5 @@ thumbnailImagePosition: "top"
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center
-draft = true
 ---
 <!--more-->
