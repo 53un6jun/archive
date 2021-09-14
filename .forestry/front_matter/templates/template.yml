@@ -17,3 +17,5 @@ fields:
 - type: list
   name: keywords
   label: keywords
+pages:
+- content/post/시작하는-말.md
