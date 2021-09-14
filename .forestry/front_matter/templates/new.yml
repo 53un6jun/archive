@@ -20,5 +20,3 @@ fields:
 - type: list
   name: keywords
   label: keywords
-pages:
-- content/post/new2.md
