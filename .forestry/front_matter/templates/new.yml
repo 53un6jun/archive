@@ -1,5 +1,5 @@
 ---
-label: Template
+label: New
 hide_body: false
 fields:
 - type: text
@@ -8,6 +8,9 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    display_utc: false
+  default: now
 - type: list
   name: categories
   label: categories
@@ -18,4 +21,4 @@ fields:
   name: keywords
   label: keywords
 pages:
-- content/post/시작하는-말.md
+- content/post/new2.md
