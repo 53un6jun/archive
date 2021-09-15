@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "공부하자"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-googleAnalytics = "G-DWN7Y99XZB"
+googleAnalytics = "G-56G4XQEN3T"
 paginate = 7
 canonifyurls = true
 
