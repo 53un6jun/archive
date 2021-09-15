@@ -147,7 +147,7 @@ canonifyurls = true
   # Posts related configuration
   # ---------------------------
   # Global keywords configuration. Following keywords will be add to every pages
-  #  keywords = ["development", "next-gen"]
+  keywords = ["기획", "서비스기획", "서비스 기획", "프로덕트 오너", "프로덕트 매니저", "product owner", "product manager", "agile", "it", "기획자", "역기획", "기획서"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true
