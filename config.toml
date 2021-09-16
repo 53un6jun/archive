@@ -13,14 +13,15 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://53un6jun.netlify.app"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
-title = "공부하자"
+languageCode = "ko-kr"
+defaultContentLanguage = "ko-kr"
+title = "공부해서 남 줘야지"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 googleAnalytics = "G-56G4XQEN3T"
 paginate = 7
 canonifyurls = true
+google-site-verification = "zf-FWTtfpuNIzcTZYWH92XGsxY9O3xjQtYnsuO17Abw"
 
 [permalinks]
   posts = "/:year/:month/:slug/"
